@@ -7,6 +7,8 @@
 --> pip install json
 <hr>
 <h2>Certificar que os cookies do site:</h2> <a href='https://www.tripadvisor.com.br/'>https://www.tripadvisor.com.br/</a>, foram aceitos.
+<hr>
+<h5>Certificar que a página do navegador esteja maximizada.</h5>
 
 
  
